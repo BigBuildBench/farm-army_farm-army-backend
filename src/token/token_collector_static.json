@@ -1,0 +1,197 @@
+[
+  {
+    "symbol": "wbnb",
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "decimals": 18
+  },
+  {
+    "symbol": "egg",
+    "address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6",
+    "decimals": 18
+  },
+  {
+    "symbol": "cake",
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "decimals": 18
+  },
+  {
+    "symbol": "beth",
+    "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+    "decimals": 18
+  },
+  {
+    "symbol": "mdg",
+    "address": "0xc1edcc306e6faab9da629efca48670be4678779d",
+    "decimals": 18
+  },
+  {
+    "symbol": "salt",
+    "address": "0x2849b1ae7e04a3d9bc288673a92477cf63f28af4",
+    "decimals": 18
+  },
+  {
+    "symbol": "alloy",
+    "address": "0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd",
+    "decimals": 18
+  },
+  {
+    "symbol": "banana",
+    "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+    "decimals": 18
+  },
+  {
+    "symbol": "slime",
+    "address": "0x23b06097f8fe2dd9d3df094d3ee8319daa8756c1",
+    "decimals": 18
+  },
+  {
+    "symbol": "juld",
+    "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+    "decimals": 18
+  },
+  {
+    "symbol": "space",
+    "address": "0x0abd3E3502c15ec252f90F64341cbA74a24fba06",
+    "decimals": 18
+  },
+  {
+    "symbol": "xblzd",
+    "address": "0x9a946c3Cb16c08334b69aE249690C236Ebd5583E",
+    "decimals": 18
+  },
+  {
+    "symbol": "bbdo",
+    "address": "0x9586b02B09bd68A7cD4aa9167a61B78F43092063",
+    "decimals": 18
+  },
+  {
+    "symbol": "bpdot",
+    "address": "0x557b3aB377bbD68DFC6dADEFafA3CC4e4B6677c6",
+    "decimals": 18
+  },
+  {
+    "symbol": "bfi",
+    "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
+    "decimals": 18
+  },
+  {
+    "symbol": "sbfi",
+    "address": "0xaaaf5d9923be358ea0b6205ef2a3b929d460ac7a",
+    "decimals": 18
+  },
+  {
+    "symbol": "polaris",
+    "address": "0x3a5325f0e5ee4da06a285e988f052d4e45aa64b4",
+    "decimals": 18
+  },
+  {
+    "symbol": "alpaca",
+    "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+    "decimals": 18
+  },
+  {
+    "symbol": "alpha",
+    "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+    "decimals": 18
+  },
+  {
+    "symbol": "mdx",
+    "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
+    "decimals": 18
+  },
+  {
+    "symbol": "ccake",
+    "address": "0xc7091aa18598b87588e37501b6ce865263cd67ce",
+    "decimals": 18
+  },
+  {
+    "symbol": "swamp",
+    "address": "0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d",
+    "decimals": 18
+  },
+  {
+    "symbol": "bboo",
+    "address": "0x51f015e3dEA234039fB536C358781118f36f1745",
+    "decimals": 18
+  },
+  {
+    "symbol": "brew",
+    "address": "0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
+    "decimals": 18
+  },
+  {
+    "symbol": "belt",
+    "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+    "decimals": 18
+  },
+  {
+    "symbol": "panther",
+    "address": "0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7",
+    "decimals": 18
+  },
+  {
+    "symbol": "wings",
+    "address": "0x0487b824c8261462F88940f97053E65bDb498446",
+    "decimals": 18
+  },
+  {
+    "symbol": "warden",
+    "address": "0x0fEAdcC3824E7F3c12f40E324a60c23cA51627fc",
+    "decimals": 18
+  },
+  {
+    "symbol": "bsw",
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "decimals": 18
+  },
+  {
+    "symbol": "gen",
+    "address": "0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967",
+    "decimals": 18
+  },
+  {
+    "symbol": "ele",
+    "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+    "decimals": 18
+  },
+  {
+    "symbol": "css",
+    "address": "0x3bc5798416c1122BcFd7cb0e055d50061F23850d",
+    "decimals": 18
+  },
+  {
+    "symbol": "merl",
+    "address": "0xDA360309C59CB8C434b28A91b823344a96444278",
+    "decimals": 18
+  },
+  {
+    "symbol": "tem",
+    "address": "0x19e6BfC1A6e4B042Fb20531244D47E252445df01",
+    "decimals": 9
+  },
+  {
+    "symbol": "nms",
+    "address": "0x8AC9DC3358A2dB19fDd57f433ff45d1fc357aFb3",
+    "decimals": 9
+  },
+  {
+    "symbol": "love",
+    "address": "0x9505dbD77DaCD1F6C89F101b98522D4b871d88C5",
+    "decimals": 9
+  },
+  {
+    "symbol": "jade",
+    "address": "0x7ad7242A99F21aa543F9650A56D141C57e4F6081",
+    "decimals": 9
+  },
+  {
+    "symbol": "udo",
+    "address": "0xb91ec4f9d7d12a1ac145a7ae3b78afb45856c9c8",
+    "decimals": 9
+  },
+  {
+    "symbol": "rs",
+    "address": "0xC25b7244e192D531495C400c64ea914A77E730A2",
+    "decimals": 9
+  }
+]
